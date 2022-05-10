@@ -14,19 +14,27 @@
     "nome": "Argentina",
      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
-    },
+    }
     
+  },
   
-  "mandante": {
-    "nome": "Brasil",
+  {
+    "descicao": "Eliminatorias copa 2022", 
+    "local": {
+    "nome": "Maracanã",
+      "imagem": "TODO"
+    },
+    "mandante": {
+    "nome": "teste",
      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ur.png"
     },
      "visitante": {
     "nome": "Argentina",
      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
     }
+    
   }
   
 ]
