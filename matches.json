@@ -14,6 +14,19 @@
     "nome": "Argentina",
      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
+    },
+    
+  
+  "mandante": {
+    "nome": "Brasil",
+     "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+     "visitante": {
+    "nome": "Argentina",
+     "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
     }
   }
+  
 ]
